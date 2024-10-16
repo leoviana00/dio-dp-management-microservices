@@ -2,8 +2,12 @@
 
 ## 🚧 Current - Work in progress
 ### 🔀 Merges
-
+*  Merge pull request #2 from leoviana00/feature-config-templates [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/719068c42dd1e2909bbd9300e22344e39b9bdc92)
 ### 🚀 Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/c59899c99d2866fc0b6df59a12bd759f727ff678)
+*  feat(📝template): Criando um Pull Request Template [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/4ab905145857c7ae28e0043127df83f2005df9a7)
+*  feat(📝template): Criando um Bug Report Template [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/09a1b401e2fd82c5cfe143962b657ca39d79f465)
+*  feat(📝template): Criando um Fetaure Request Template [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/633c8e3ae7f1d2ac2478198258dd9a55c6670b5b)
 
 
 
