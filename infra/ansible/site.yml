@@ -1,0 +1,8 @@
+- name: Configure Cluster Dockr Swarm
+  hosts: "{{ varlocal | default('vbox') }}"
+  remote_user: "{{ ansible_user }}"
+  become: true
+  tags: cluster
+  roles:
+    - role: cluster_swarm
+      when: cluster_enabled == true
