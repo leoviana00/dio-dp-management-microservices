@@ -2,8 +2,18 @@
 
 ## 🚧 Current - Work in progress
 ### 🔀 Merges
-
+*  Merge pull request #4 from leoviana00/feature-ansible-swarm [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/7c7b05c773e9d8974085dadafe7a4fe1ba7f8e0c)
 ### 🚀 Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/eada96c8fda4794ae281c0f76661aa2bd8d050e0)
+*  feat(ignore): ignorando alguns arquivos [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/da8d8589a1feb339b6567c35366ed23d5eed0508)
+*  feat(setup): makefile para facilitar a subida e configuração [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/c132a94d8e938c39e550e7f6715cb69bbb215158)
+*  feat(ansible): add ansible cfg [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/59ecbb21bdbd3370a3a3b95d000f289e843f8026)
+*  feat(ansible): criando playbook principal site [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/ddb2390fd325a136f0834acf9d3cdc7ef568addf)
+*  feat(inventory): arquivo de hosts vbox [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/6c685099e6151099c0a799a2fd1652f7f02dc949)
+*  feat(playbook): arquivo principa playbook [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/5171131f2cc9f1160c32e778271909dc2caaacc1)
+*  feat(infra): vagrantfile vbox vms [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/17a08863af4fc3aeacf3f1d0c0090643170c1d9f)
+*  feat(ansible): roles para configuração swarm cluster [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/b64edcfce4fc977046b321850e153879c11b8a0d)
+*  feat(shell): scripts auxiliares [View](https://github.com/leoviana00/dio-dp-management-microservices/commits/c6d28e9091e6ed4a5be15f36fc3b1b62c6543c03)
 
 
 
